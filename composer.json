@@ -1,5 +1,5 @@
 {
-    "name": "GovTribe/laravel-slack-blocks",
+    "name": "govtribe/laravel-slack-blocks",
     "description": "Slack Blocks support for laravel notifications.",
     "keywords": ["laravel", "notifications", "slack", "blocks"],
     "license": "MIT",
