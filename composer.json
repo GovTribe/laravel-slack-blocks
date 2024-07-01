@@ -1,5 +1,5 @@
 {
-    "name": "nathanheffley/laravel-slack-blocks",
+    "name": "GovTribe/laravel-slack-blocks",
     "description": "Slack Blocks support for laravel notifications.",
     "keywords": ["laravel", "notifications", "slack", "blocks"],
     "license": "MIT",
@@ -12,7 +12,7 @@
     "require": {
         "php": "^7.1.3|^8.0",
         "guzzlehttp/guzzle": "^6.0|^7.0",
-        "laravel/slack-notification-channel": "^2.0"
+        "laravel/slack-notification-channel": "^3"
     },
     "require-dev": {
         "illuminate/notifications": "~5.8.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
